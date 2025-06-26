@@ -4,7 +4,7 @@ package practice;
 import java.util.Scanner;
 
 public class Switch {
-    public static void main(String[] args) {
+    public static void main(String_S1[] args) {
         Scanner sc1 =new Scanner(System.in);
         System.out.println("Enter the Values");
         int Day= sc1.nextInt();
